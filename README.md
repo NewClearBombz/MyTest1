@@ -3,3 +3,4 @@ localChange
 change2
 remote change
 4567
+1234
